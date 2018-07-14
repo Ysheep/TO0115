@@ -9,3 +9,4 @@ master update 02
 remote update file
 github is a version control system
 Git is free software distribute under the GPL
+understand how stage work.
